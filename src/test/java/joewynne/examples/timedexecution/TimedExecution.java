@@ -15,6 +15,7 @@ public class TimedExecution
         
         long waitTimeMillis = waitTimeSeconds * 1000;
         
+        System.out.println("Sleeping for " + waitTimeSeconds + " seconds");
         Thread.sleep(waitTimeMillis);
         
     }
