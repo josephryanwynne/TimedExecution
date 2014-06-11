@@ -1,0 +1,6 @@
+#surefire
+#Wed Jun 11 20:24:40 BST 2014
+waitTime=10
+user.dir=c\:\\Users\\Joe\\Documents\\NetBeansProjects\\TimedExecution
+localRepository=C\:\\.m2\\repository
+basedir=c\:\\Users\\Joe\\Documents\\NetBeansProjects\\TimedExecution
